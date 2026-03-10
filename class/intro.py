@@ -33,3 +33,9 @@ hao_1.bedroom = "3 bedroom"
 hao_1.location = "Kilimani"
 hao_1.reg_no = "3453AX"
 print(hao_1.__dict__)
+#hao_2 = House()
+# hao_2.bed_type = "Hao"
+# hao_2.bedroom = "3 bedroom"
+# hao_2.location = "Runda"
+# hao_2.reg_no = "3453AXX"
+# print(hao_2)
